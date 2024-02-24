@@ -47,11 +47,11 @@ Constraints:
 
 
 // but for Time Complexity: O(nlogk) we will use HEAP
-/*
-simple funda for heap:
-for finding maximum use Min Heap
-for finding minimum use Max Heap
-*/
+
+// simple funda for heap:
+// for finding maximum use Min Heap
+// for finding minimum use Max Heap
+
 
 // max heap keaps the largest number at top of stack
 // maintain size of heap equal to k
